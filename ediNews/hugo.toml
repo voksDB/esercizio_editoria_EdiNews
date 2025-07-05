@@ -1,4 +1,4 @@
-baseURL = 'https://voksdb.github.io/sito_hugo_editoria/'
+baseURL = 'https://voksdb.github.io/esercizio_editoria_EdiNews/'
 languageCode = 'en-us'
 title = 'EdiNews'
 theme = ["github.com/onweru/newsroom"]

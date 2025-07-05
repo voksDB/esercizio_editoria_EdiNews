@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/voks/Scrivania/ESERCIZIO_EDITORIA/ediNews",
+	"sourceRoot": "/home/voks/Scrivania/esercizio_editoria_EdiNews/ediNews",
 	"sources": [
 		"/home/voks/.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/main.sass",
 		"../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_variables.sass",

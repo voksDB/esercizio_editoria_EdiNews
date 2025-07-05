@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on EdiNews</title>
-    <link>http://localhost:1313/sito_hugo_editoria/tags/</link>
+    <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/</link>
     <description>Recent content in Tags on EdiNews</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>dajeromadaje</copyright>
     <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/sito_hugo_editoria/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://voksdb.github.io/esercizio_editoria_EdiNews/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adattamento</title>
-      <link>http://localhost:1313/sito_hugo_editoria/tags/adattamento/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/adattamento/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sito_hugo_editoria/tags/adattamento/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/adattamento/</guid>
       <description></description>
     </item>
     <item>
       <title>Benessere Psicologico</title>
-      <link>http://localhost:1313/sito_hugo_editoria/tags/benessere-psicologico/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/benessere-psicologico/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sito_hugo_editoria/tags/benessere-psicologico/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/benessere-psicologico/</guid>
       <description></description>
     </item>
     <item>
       <title>Clima</title>
-      <link>http://localhost:1313/sito_hugo_editoria/tags/clima/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/clima/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sito_hugo_editoria/tags/clima/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/clima/</guid>
       <description></description>
     </item>
     <item>
       <title>Resilienza</title>
-      <link>http://localhost:1313/sito_hugo_editoria/tags/resilienza/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/resilienza/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sito_hugo_editoria/tags/resilienza/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/resilienza/</guid>
       <description></description>
     </item>
     <item>
       <title>Demo</title>
-      <link>http://localhost:1313/sito_hugo_editoria/tags/demo/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/demo/</link>
       <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sito_hugo_editoria/tags/demo/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/demo/</guid>
       <description></description>
     </item>
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/sito_hugo_editoria/tags/test/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/test/</link>
       <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sito_hugo_editoria/tags/test/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/test/</guid>
       <description></description>
     </item>
   </channel>
