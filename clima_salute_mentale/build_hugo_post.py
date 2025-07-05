@@ -29,8 +29,8 @@ def generate_references_section(bib_entries):
 def generate_download_links():
     return (
         "#### Scarica il contenuto\n\n"
-        "📄 [Scarica il PDF](https://voksdb.github.io/sito_hugo_editoria/downloads/clima_salute_mentale.pdf)  \n"
-        "📝 [Scarica il Markdown](https://voksdb.github.io/sito_hugo_editoria/downloads/clima_salute_mentale.md)\n"
+        "📄 [Scarica il PDF](https://voksdb.github.io/esercizio_editoria_EdiNews/downloads/clima_salute_mentale.pdf)  \n"
+        "📝 [Scarica il Markdown](https://voksdb.github.io/esercizio_editoria_EdiNews/downloads/clima_salute_mentale.md)\n"
     )
 
 def build_hugo_markdown(metadata, content, refs_section, download_links):

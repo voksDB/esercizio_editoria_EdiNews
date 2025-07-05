@@ -146,8 +146,8 @@ _____
 
 #### Scarica il contenuto
 
-📄 [Scarica il PDF](https://voksdb.github.io/sito_hugo_editoria/downloads/clima_salute_mentale.pdf)  
-📝 [Scarica il Markdown](https://voksdb.github.io/sito_hugo_editoria/downloads/clima_salute_mentale.md)
+📄 [Scarica il PDF](https://voksdb.github.io/esercizio_editoria_EdiNews/downloads/clima_salute_mentale.pdf)  
+📝 [Scarica il Markdown](https://voksdb.github.io/esercizio_editoria_EdiNews/downloads/clima_salute_mentale.md)
 
 
 ---
