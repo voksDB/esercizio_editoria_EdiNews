@@ -1,0 +1,10 @@
+baseURL = 'https://voksdb.github.io/sito_hugo_editoria/'
+languageCode = 'en-us'
+title = 'EdiNews'
+theme = ["github.com/onweru/newsroom"]
+author = "Damon Bianchi"
+copyright = "dajeromadaje"
+Data.designer="Damon Bianchi"
+
+  
+
