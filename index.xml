@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EdiNews</title>
-    <link>https://voksdb.github.io/esercizio_editoria_EdiNews/</link>
+    <link>http://localhost:1313/esercizio_editoria_EdiNews/</link>
     <description>Recent content on EdiNews</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>dajeromadaje</copyright>
     <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://voksdb.github.io/esercizio_editoria_EdiNews/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/esercizio_editoria_EdiNews/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Salute mentale e cambiamento climatico: impatti e strategie di adattamento</title>
-      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/posts/clima_salute_mentale/</link>
+      <link>http://localhost:1313/esercizio_editoria_EdiNews/posts/clima_salute_mentale/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/posts/clima_salute_mentale/</guid>
+      <guid>http://localhost:1313/esercizio_editoria_EdiNews/posts/clima_salute_mentale/</guid>
       <description>Il cambiamento climatico influisce sulla salute mentale attraverso stress ambientale, insicurezza alimentare e condizioni socio-economiche precarie. questo articolo presenta tre studi principali: 1. Navigating psychosocial dimensions, che esamina come le strategie di adattamento influenzino il benessere. 2. Strategies for resilience, che propone interventi per mitigare fame e salute mentale. 3. Locating the built environment, una revisione globale sull&amp;rsquo;impatto dell&amp;rsquo;ambiente costruito sulla salute mentale.</description>
     </item>
     <item>
       <title>Test iniziale</title>
-      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/posts/prova/</link>
+      <link>http://localhost:1313/esercizio_editoria_EdiNews/posts/prova/</link>
       <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/posts/prova/</guid>
+      <guid>http://localhost:1313/esercizio_editoria_EdiNews/posts/prova/</guid>
       <description>&lt;p&gt;Benvenuto nel tuo sito Hugo per l’esame di Editoria Digitale!&lt;/p&gt;</description>
     </item>
   </channel>
