@@ -4,7 +4,8 @@
 # fatto chiaramente da chat gpt
 
 
-# Imposta i nomi dei file
+# Imposta i nomi dei file, cambiare a seconda dell'articolo che si sta creando
+
 MD_FILE="articolo_completo.md"
 BIB_FILE="bibliografia.bib"
 META_FILE="metadati.yaml"
