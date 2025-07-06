@@ -1,20 +1,20 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "C:/Users/dbian/Desktop/esercizio_editoria_EdiNews/ediNews",
+	"sourceRoot": "/home/voks/Scrivania/esercizio_editoria_EdiNews/ediNews",
 	"sources": [
-		"C:/Users/dbian/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/main.sass",
-		"../../../AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_variables.sass",
-		"../../../AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_fonts.sass",
-		"../../../AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_mixins.sass",
-		"../../../AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_animate.sass",
-		"../../../AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_base.sass",
-		"../../../AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_components.sass",
-		"../../../AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_nav.sass",
-		"../../../AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_posts.sass",
-		"../../../AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_utils.sass",
-		"../../../AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_syntax.sass",
-		"../../../AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_custom.sass"
+		"/home/voks/.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/main.sass",
+		"../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_variables.sass",
+		"../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_fonts.sass",
+		"../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_mixins.sass",
+		"../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_animate.sass",
+		"../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_base.sass",
+		"../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_components.sass",
+		"../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_nav.sass",
+		"../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_posts.sass",
+		"../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_utils.sass",
+		"../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_syntax.sass",
+		"../../../.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20250123185016-29bfff494220/assets/sass/_custom.sass"
 	],
 	"sourcesContent": [
 		"@import \"variables\";\n@import \"fonts\";\n@import \"mixins\";\n@import \"animate\";\n@import \"base\";\n@import \"components\";\n@import \"nav\";\n@import \"posts\";\n@import \"utils\";\n@import \"syntax\";\n@import \"custom\";\n",

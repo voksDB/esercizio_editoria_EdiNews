@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on EdiNews</title>
-    <link>http://localhost:1313/esercizio_editoria_EdiNews/tags/</link>
+    <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/</link>
     <description>Recent content in Tags on EdiNews</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>dajeromadaje</copyright>
     <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/esercizio_editoria_EdiNews/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://voksdb.github.io/esercizio_editoria_EdiNews/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adattamento</title>
-      <link>http://localhost:1313/esercizio_editoria_EdiNews/tags/adattamento/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/adattamento/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/esercizio_editoria_EdiNews/tags/adattamento/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/adattamento/</guid>
       <description></description>
     </item>
     <item>
       <title>Benessere Psicologico</title>
-      <link>http://localhost:1313/esercizio_editoria_EdiNews/tags/benessere-psicologico/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/benessere-psicologico/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/esercizio_editoria_EdiNews/tags/benessere-psicologico/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/benessere-psicologico/</guid>
       <description></description>
     </item>
     <item>
       <title>Clima</title>
-      <link>http://localhost:1313/esercizio_editoria_EdiNews/tags/clima/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/clima/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/esercizio_editoria_EdiNews/tags/clima/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/clima/</guid>
       <description></description>
     </item>
     <item>
       <title>Resilienza</title>
-      <link>http://localhost:1313/esercizio_editoria_EdiNews/tags/resilienza/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/resilienza/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/esercizio_editoria_EdiNews/tags/resilienza/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/resilienza/</guid>
       <description></description>
     </item>
     <item>
       <title>Didattica Digitale</title>
-      <link>http://localhost:1313/esercizio_editoria_EdiNews/tags/didattica-digitale/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/didattica-digitale/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/esercizio_editoria_EdiNews/tags/didattica-digitale/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/didattica-digitale/</guid>
       <description></description>
     </item>
     <item>
       <title>Etica Dell&#39;IA</title>
-      <link>http://localhost:1313/esercizio_editoria_EdiNews/tags/etica-dellia/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/etica-dellia/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/esercizio_editoria_EdiNews/tags/etica-dellia/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/etica-dellia/</guid>
       <description></description>
     </item>
     <item>
       <title>Personalizzazione</title>
-      <link>http://localhost:1313/esercizio_editoria_EdiNews/tags/personalizzazione/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/personalizzazione/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/esercizio_editoria_EdiNews/tags/personalizzazione/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/personalizzazione/</guid>
       <description></description>
     </item>
     <item>
       <title>Valutazione Automatica</title>
-      <link>http://localhost:1313/esercizio_editoria_EdiNews/tags/valutazione-automatica/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/valutazione-automatica/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/esercizio_editoria_EdiNews/tags/valutazione-automatica/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/valutazione-automatica/</guid>
       <description></description>
     </item>
     <item>
       <title>Algoritmi</title>
-      <link>http://localhost:1313/esercizio_editoria_EdiNews/tags/algoritmi/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/algoritmi/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/esercizio_editoria_EdiNews/tags/algoritmi/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/algoritmi/</guid>
       <description></description>
     </item>
     <item>
       <title>Echo Chamber</title>
-      <link>http://localhost:1313/esercizio_editoria_EdiNews/tags/echo-chamber/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/echo-chamber/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/esercizio_editoria_EdiNews/tags/echo-chamber/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/echo-chamber/</guid>
       <description></description>
     </item>
     <item>
       <title>Fact-Checking</title>
-      <link>http://localhost:1313/esercizio_editoria_EdiNews/tags/fact-checking/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/fact-checking/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/esercizio_editoria_EdiNews/tags/fact-checking/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/fact-checking/</guid>
       <description></description>
     </item>
     <item>
       <title>Piattaforme Digitali</title>
-      <link>http://localhost:1313/esercizio_editoria_EdiNews/tags/piattaforme-digitali/</link>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/piattaforme-digitali/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/esercizio_editoria_EdiNews/tags/piattaforme-digitali/</guid>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/piattaforme-digitali/</guid>
       <description></description>
     </item>
   </channel>
