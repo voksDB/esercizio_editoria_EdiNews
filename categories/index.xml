@@ -24,10 +24,31 @@
       <description></description>
     </item>
     <item>
-      <title>Bozza</title>
-      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/categories/bozza/</link>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/categories/bozza/</guid>
+      <title>Educazione</title>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/categories/educazione/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/categories/educazione/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intelligenza Artificiale</title>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/categories/intelligenza-artificiale/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/categories/intelligenza-artificiale/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Disinformazione</title>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/categories/disinformazione/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/categories/disinformazione/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Media</title>
+      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/categories/social-media/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/categories/social-media/</guid>
       <description></description>
     </item>
   </channel>
