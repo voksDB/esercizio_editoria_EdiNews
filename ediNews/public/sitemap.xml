@@ -2,49 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/adattamento/</loc>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/tags/adattamento/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/benessere-psicologico/</loc>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/tags/benessere-psicologico/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://voksdb.github.io/esercizio_editoria_EdiNews/categories/cambiamento-climatico/</loc>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/categories/cambiamento-climatico/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://voksdb.github.io/esercizio_editoria_EdiNews/categories/</loc>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/categories/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/clima/</loc>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/tags/clima/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://voksdb.github.io/esercizio_editoria_EdiNews/</loc>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://voksdb.github.io/esercizio_editoria_EdiNews/posts/</loc>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/posts/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/resilienza/</loc>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/tags/resilienza/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://voksdb.github.io/esercizio_editoria_EdiNews/categories/salute-mentale/</loc>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/categories/salute-mentale/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://voksdb.github.io/esercizio_editoria_EdiNews/posts/clima_salute_mentale/</loc>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/posts/clima_salute_mentale/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/</loc>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/tags/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://voksdb.github.io/esercizio_editoria_EdiNews/categories/bozza/</loc>
-    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/tags/didattica-digitale/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/demo/</loc>
-    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/categories/educazione/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://voksdb.github.io/esercizio_editoria_EdiNews/tags/test/</loc>
-    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/tags/etica-dellia/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://voksdb.github.io/esercizio_editoria_EdiNews/posts/prova/</loc>
-    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/categories/intelligenza-artificiale/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/posts/didattica/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/tags/personalizzazione/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/tags/valutazione-automatica/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/tags/algoritmi/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/categories/disinformazione/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/posts/disinformazione/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/tags/echo-chamber/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/tags/fact-checking/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/tags/piattaforme-digitali/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/esercizio_editoria_EdiNews/categories/social-media/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
   </url>
 </urlset>

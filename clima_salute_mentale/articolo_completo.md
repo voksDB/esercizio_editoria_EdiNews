@@ -34,6 +34,8 @@ cambiamento climatico, affinché queste possano contribuire efficacemente
 a mitigare gli effetti negativi sulla salute mentale e promuovere la
 resilienza collettiva.
 
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666154325003941-gr2.jpg)
+
 [@heath2025navigating]
 
 ____

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Educazione on EdiNews</title>
+    <link>http://localhost:1313/esercizio_editoria_EdiNews/categories/educazione/</link>
+    <description>Recent content in Educazione on EdiNews</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>dajeromadaje</copyright>
+    <lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/esercizio_editoria_EdiNews/categories/educazione/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intelligenza artificiale e didattica: opportunità, rischi e nuove competenze</title>
+      <link>http://localhost:1313/esercizio_editoria_EdiNews/posts/didattica/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/esercizio_editoria_EdiNews/posts/didattica/</guid>
+      <description>L’integrazione dell’intelligenza artificiale nella didattica sta ridefinendo il ruolo degli insegnanti, le metodologie di apprendimento e la valutazione degli studenti. L’IA consente una maggiore personalizzazione dei percorsi formativi e l’ottimizzazione delle risorse, ma solleva anche interrogativi etici su privacy, bias algoritmici e disuguaglianze digitali. La ricerca mostra come il successo dell’adozione dipenda da formazione mirata, trasparenza dei sistemi e co-progettazione con gli attori educativi.</description>
+    </item>
+  </channel>
+</rss>

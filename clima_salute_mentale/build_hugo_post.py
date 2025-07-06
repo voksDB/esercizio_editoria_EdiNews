@@ -1,6 +1,16 @@
 import yaml
 import bibtexparser
 
+"""
+Script per generare un post Hugo in formato Markdown a partire da metadati, 
+contenuto dell'articolo e riferimenti bibliografici.
+
+è necessario cambiare il nome del file di output in base al titolo dell'articolo.
+
+"""
+OUTPUT_BASENAME = "clima_salute_mentale"
+
+
 def load_yaml_metadata(path):
     with open(path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f)
@@ -13,6 +23,10 @@ def load_bib_entries(bib_path):
     with open(bib_path, "r", encoding="utf-8") as bibfile:
         return bibtexparser.load(bibfile).entries
 
+
+"""
+Funzioni per formattare i riferimenti bibliografici in Markdown
+"""
 def format_reference(entry):
     authors = entry.get("author", "Autore sconosciuto").replace(" and ", ", ")
     title = entry.get("title", "").strip("{}")
@@ -26,13 +40,20 @@ def generate_references_section(bib_entries):
     refs = [format_reference(e) for e in bib_entries]
     return "## Riferimenti\n\n" + "\n".join(refs)
 
+"""
+Funzione per generare i link di download del contenuto, 
+
+"""
 def generate_download_links():
     return (
         "#### Scarica il contenuto\n\n"
-        "📄 [Scarica il PDF](https://voksdb.github.io/esercizio_editoria_EdiNews/downloads/clima_salute_mentale.pdf)  \n"
-        "📝 [Scarica il Markdown](https://voksdb.github.io/esercizio_editoria_EdiNews/downloads/clima_salute_mentale.md)\n"
+        f"📄 [Scarica il PDF](https://voksdb.github.io/esercizio_editoria_EdiNews/downloads/{OUTPUT_BASENAME}.pdf)  \n"
+        f"📝 [Scarica il Markdown](https://voksdb.github.io/esercizio_editoria_EdiNews/downloads/{OUTPUT_BASENAME}.md)\n"
     )
 
+"""
+costruisce il corpo del post in formato Markdown per Hugo,
+"""
 def build_hugo_markdown(metadata, content, refs_section, download_links):
     # Estrai summary dal campo abstract
     summary_text = metadata.pop('abstract', '').strip()
@@ -73,4 +94,4 @@ if __name__ == "__main__":
     refs = generate_references_section(bib_entries)
     download = generate_download_links()
     result = build_hugo_markdown(meta, art, refs, download)
-    save_output("clima_salute_mentale.md", result)
+    save_output(f"{OUTPUT_BASENAME}.md", result)

@@ -2,26 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on EdiNews</title>
-    <link>https://voksdb.github.io/esercizio_editoria_EdiNews/posts/</link>
+    <link>http://localhost:1313/esercizio_editoria_EdiNews/posts/</link>
     <description>Recent content in Posts on EdiNews</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>dajeromadaje</copyright>
     <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://voksdb.github.io/esercizio_editoria_EdiNews/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/esercizio_editoria_EdiNews/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Salute mentale e cambiamento climatico: impatti e strategie di adattamento</title>
-      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/posts/clima_salute_mentale/</link>
+      <link>http://localhost:1313/esercizio_editoria_EdiNews/posts/clima_salute_mentale/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/posts/clima_salute_mentale/</guid>
-      <description>Il cambiamento climatico influisce sulla salute mentale attraverso stress ambientale, insicurezza alimentare e condizioni socio-economiche precarie. questo articolo presenta tre studi principali: 1. Navigating psychosocial dimensions, che esamina come le strategie di adattamento influenzino il benessere. 2. Strategies for resilience, che propone interventi per mitigare fame e salute mentale. 3. Locating the built environment, una revisione globale sull&amp;rsquo;impatto dell&amp;rsquo;ambiente costruito sulla salute mentale.</description>
+      <guid>http://localhost:1313/esercizio_editoria_EdiNews/posts/clima_salute_mentale/</guid>
+      <description>Il cambiamento climatico incide sempre più sulla salute mentale, generando ansia, stress e insicurezza soprattutto nelle comunità più vulnerabili.  La ricerca evidenzia come fattori ambientali, sociali e urbanistici si intreccino nel determinare il benessere psicologico,  richiedendo strategie di adattamento che vadano oltre le soluzioni tecniche. Spazi urbani, reti di supporto e sicurezza alimentare  diventano elementi cruciali per costruire resilienza. Serve un approccio integrato e multidimensionale,  capace di unire sostenibilità ambientale e cura della salute mentale, per rispondere in modo efficace alle sfide poste dalla crisi climatica.</description>
     </item>
     <item>
-      <title>Test iniziale</title>
-      <link>https://voksdb.github.io/esercizio_editoria_EdiNews/posts/prova/</link>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://voksdb.github.io/esercizio_editoria_EdiNews/posts/prova/</guid>
-      <description>&lt;p&gt;Benvenuto nel tuo sito Hugo per l’esame di Editoria Digitale!&lt;/p&gt;</description>
+      <title>Intelligenza artificiale e didattica: opportunità, rischi e nuove competenze</title>
+      <link>http://localhost:1313/esercizio_editoria_EdiNews/posts/didattica/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/esercizio_editoria_EdiNews/posts/didattica/</guid>
+      <description>L’integrazione dell’intelligenza artificiale nella didattica sta ridefinendo il ruolo degli insegnanti, le metodologie di apprendimento e la valutazione degli studenti. L’IA consente una maggiore personalizzazione dei percorsi formativi e l’ottimizzazione delle risorse, ma solleva anche interrogativi etici su privacy, bias algoritmici e disuguaglianze digitali. La ricerca mostra come il successo dell’adozione dipenda da formazione mirata, trasparenza dei sistemi e co-progettazione con gli attori educativi.</description>
+    </item>
+    <item>
+      <title>Disinformazione e social network: dinamiche, impatti e contromisure</title>
+      <link>http://localhost:1313/esercizio_editoria_EdiNews/posts/disinformazione/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/esercizio_editoria_EdiNews/posts/disinformazione/</guid>
+      <description>La diffusione di contenuti falsi sui social network rappresenta una sfida crescente per l&amp;rsquo;integrità informativa e la coesione democratica. Gli algoritmi di raccomandazione, la formazione di camere dell&amp;rsquo;eco e la velocità di propagazione rendono la disinformazione particolarmente difficile da arginare. Diverse ricerche sottolineano l&amp;rsquo;importanza di riformare le piattaforme, promuovere alfabetizzazione mediatica e potenziare il fact-checking collaborativo come strumenti per ridurre l&amp;rsquo;impatto delle notizie false e delle manipolazioni online.</description>
     </item>
   </channel>
 </rss>

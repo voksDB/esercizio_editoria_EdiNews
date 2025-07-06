@@ -17,6 +17,7 @@ doi:
 - https://doi.org/10.1016/j.jafr.2025.102023
 - https://doi.org/10.1016/j.jafr.2025.102024
 - https://doi.org/10.1136/bmjopen-2023-093222
+image: "images/clima_salute.png"
 links:
 - title: Navigating psychosocial dimensions
   url: https://www.sciencedirect.com/science/article/pii/S1877343524000800
@@ -24,16 +25,17 @@ links:
   url: https://www.sciencedirect.com/science/article/pii/S2666154325003941
 - title: Locating the built environment
   url: https://bmjopen.bmj.com/content/15/4/e093222
-summary: 'Il cambiamento climatico influisce sulla salute mentale attraverso stress
-  ambientale, insicurezza alimentare e condizioni socio-economiche precarie. questo
-  articolo presenta tre studi principali: 1. Navigating psychosocial dimensions, che
-  esamina come le strategie di adattamento influenzino il benessere. 2. Strategies
-  for resilience, che propone interventi per mitigare fame e salute mentale. 3. Locating
-  the built environment, una revisione globale sull''impatto dell''ambiente costruito
-  sulla salute mentale.'
+summary: Il cambiamento climatico incide sempre più sulla salute mentale, generando
+  ansia, stress e insicurezza soprattutto nelle comunità più vulnerabili.  La ricerca
+  evidenzia come fattori ambientali, sociali e urbanistici si intreccino nel determinare
+  il benessere psicologico,  richiedendo strategie di adattamento che vadano oltre
+  le soluzioni tecniche. Spazi urbani, reti di supporto e sicurezza alimentare  diventano
+  elementi cruciali per costruire resilienza. Serve un approccio integrato e multidimensionale,  capace
+  di unire sostenibilità ambientale e cura della salute mentale, per rispondere in
+  modo efficace alle sfide poste dalla crisi climatica.
 ---
 
-Il cambiamento climatico influisce sulla salute mentale attraverso stress ambientale, insicurezza alimentare e condizioni socio-economiche precarie. questo articolo presenta tre studi principali: 1. Navigating psychosocial dimensions, che esamina come le strategie di adattamento influenzino il benessere. 2. Strategies for resilience, che propone interventi per mitigare fame e salute mentale. 3. Locating the built environment, una revisione globale sull'impatto dell'ambiente costruito sulla salute mentale.
+Il cambiamento climatico incide sempre più sulla salute mentale, generando ansia, stress e insicurezza soprattutto nelle comunità più vulnerabili.  La ricerca evidenzia come fattori ambientali, sociali e urbanistici si intreccino nel determinare il benessere psicologico,  richiedendo strategie di adattamento che vadano oltre le soluzioni tecniche. Spazi urbani, reti di supporto e sicurezza alimentare  diventano elementi cruciali per costruire resilienza. Serve un approccio integrato e multidimensionale,  capace di unire sostenibilità ambientale e cura della salute mentale, per rispondere in modo efficace alle sfide poste dalla crisi climatica.
 
 ## Il ruolo dell'ambiente costruito nei modelli empirici su cambiamento climatico e salute mentale
 
@@ -70,6 +72,8 @@ dimensioni emotive e sociali nel progettare strategie di adattamento al
 cambiamento climatico, affinché queste possano contribuire efficacemente
 a mitigare gli effetti negativi sulla salute mentale e promuovere la
 resilienza collettiva.
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2666154325003941-gr2.jpg)
 
 [@heath2025navigating]
 
@@ -145,8 +149,8 @@ _____
 
 #### Scarica il contenuto
 
-📄 [Scarica il PDF](https://voksdb.github.io/sito_hugo_editoria/downloads/clima_salute_mentale.pdf)  
-📝 [Scarica il Markdown](https://voksdb.github.io/sito_hugo_editoria/downloads/clima_salute_mentale.md)
+📄 [Scarica il PDF](https://voksdb.github.io/esercizio_editoria_EdiNews/downloads/clima_salute_mentale.pdf)  
+📝 [Scarica il Markdown](https://voksdb.github.io/esercizio_editoria_EdiNews/downloads/clima_salute_mentale.md)
 
 
 ---
