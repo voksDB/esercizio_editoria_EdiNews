@@ -15,7 +15,7 @@ kind: Document
 bibliography: bibliografia.bib
 csl: IEEE.csl
 ---
-![[img/minerva.png]]
+![[relazione/img/minerva.png]]
 # EdiNews
 
 Raccolta di _sintesi_ e _analisi_ sui principali temi di attualità 
@@ -38,7 +38,7 @@ per questi temi è fondamentale l'accesso alla letteratura scientifica e il conf
 
 il progetto ha l'obbiettivo di rendere chiara, rapida e accessibile l'informazione su questi temi, sintetizzando e confrontando alcuni recenti articoli sull'argomento. 
 
-![[img/edinews.png]]
+![[relazione/img/edinews.png]]
 
 ### Destinatari
 
