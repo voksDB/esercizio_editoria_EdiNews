@@ -111,6 +111,7 @@ graph LR
 | pandoc      | Conversione formati (PDF)                                                                                             |
 | Python/bash | Script per automatizzare build                                                                                        |
 | Git/GitHub  | Gestione versioning + pubblicazione su GitHub pages                                                                   |
+| Hugo        | framework per la gestione del sito dove verranno pubblicati    i materiali                                            |
 
 ### Esecuzione del flusso
 
