@@ -15,7 +15,9 @@ kind: Document
 bibliography: bibliografia.bib
 csl: IEEE.csl
 ---
+
 ![](relazione/img/minerva.png)
+
 # EdiNews
 
 Raccolta di _sintesi_ e _analisi_ sui principali temi di attualità 
@@ -56,10 +58,6 @@ il prodotto creato deve essere in un formato che sia ampiamente utilizzato e agg
 
 la fruizione del contenuto deve essere chiara e accessibile, si deve ottenere un modello di lettura _testuale_, dal tono rigoso, ma non eccessivamente scientifico, il progetto ha l'obbiettivo di rendere chiaro ad un pubblico più ampio il punto degli articoli pubblicati,  per questo è possibile introdurre anche _degli elementi  visuali_ come grafici e diagrammi tratti da essi.  
 
-parlare anche di: 
-
-> Quali standard consideriamo come riferimento? Quali aspetti di innovazione possiamo proporre? Nella qualità dei contenuti o nel processo di fruizione?
-
 ### Canali di distribuzione
 
 | Canale                                | Formato         | In che modo                                        |
@@ -72,19 +70,23 @@ L’identità visiva è minimale, con uso di stili coerenti L’impaginazione se
 https://theconversation.com/global
 
 lo stile deve essere formale e ispirare affidabilità in chi ne fruisce, è stato preferito quindi l'utilizzo modelli già presenti sul mercato. 
+
+adattabile a dispositivi mobile. 
+
 ## Processo di Produzione
 
 ### Acquisizione dei contenuti
 
-> Descrivere le fonti che saranno utilizzate nella costruzione del prodotto editoriale. Nella scelta delle fonti valutare il costo di acquisizione: (i) disponibili come fonti libere, (ii) generabili automaticamente, (iii) richiedono un lavoro di redazione manuale.
+le fonti utilizzate per redigere il materiale sono articoli scientifici con licenza open access.
 
-le fonti utilizzate per redigere il materiale sono articoli scientifici con licenza open access. 
+prima dell'effettiva ricerca è fondamentale analizzare gli argomenti più rilevanti nel dibattito pubblico attraverso strumenti come __google trends.__
 
 la ricerca delle fonti sull'argomento è stata effettuata su [Google Scholar](https://scholar.google.com/) è stato così possibile selezionare riviste scientifiche che espongono articoli con licenza libera, come [ScienceDirect](https://www.sciencedirect.com/)
 
+
 altre fonti libere possono essere [Zenodo](https://zenodo.org/) e [PubMed](https://pubmed.ncbi.nlm.nih.gov/), ma ho avuto difficoltà a trovare articoli che riguardassero lo stesso argomento, restano comunque valide alternative per la ricerca. 
 
-per processo di creazione dei contenuti è necessario un lavoro di _redazione manuale_, per la stesura di un file Markdown o di testo che contenga la sintesi/analisi dei documenti raccolti, documento che necessita l'insermento di appropriati metadati in stile yaml
+per processo di creazione dei contenuti è necessario un lavoro di _redazione manuale_, per la stesura di un file Markdown o di testo che contenga la sintesi/analisi dei documenti raccolti, documento che necessita l'inserimento di appropriati metadati in stile yaml
 
 è in teoria possibile generare un'introduzione per l'articolo che raccolga i principali punti chiave degli argomenti automaticamente, tramite AI. 
 
@@ -92,6 +94,7 @@ per processo di creazione dei contenuti è necessario un lavoro di _redazione ma
 
 ```mermaid
 graph LR
+    H[Analisi trends] --> A[Ricerca papers]
     A[Ricerca papers] --> B{la fonte è open access?}
     B --> |sì| C[creazione contenuto]
     B --> |no| A
@@ -111,7 +114,6 @@ graph LR
 | pandoc      | Conversione formati (PDF)                                                                                             |
 | Python/bash | Script per automatizzare build                                                                                        |
 | Git/GitHub  | Gestione versioning + pubblicazione su GitHub pages                                                                   |
-| Hugo        | framework per la gestione del sito dove verranno pubblicati    i materiali                                            |
 
 ### Esecuzione del flusso
 
@@ -123,7 +125,6 @@ ___
 
 ### Valutazione del flusso di produzione
 
-> Per valutare il contributo proposto valutare le diverse fasi del flusso in termini di (i) riduzione dei tempi di gestione documentale, (ii) riduzione degli errori, (iii) miglioramento della qualità dei documenti, (iv) miglioramento del livello di accettazione della tecnologia, (v) raggiungimento di nuovi canali di distribuzione, (vi) soddisfacimento di nuovi scenari d'uso.
 
 L'introduzione di script per la generazione e pubblicazione dei documenti ha permesso una riduzione nella preparazione del materiale, in particolare nelle fasi ripetitive come:
 - generazione dei file md strutturati per la pubblicazione
@@ -134,26 +135,24 @@ L’adozione di standard aperti e di strumenti semplici da usare ha facilitato l
  
 ### Confronto con lo stato dell'arte
 
-> Può anche essere utile confrontare una versione ASIS del flusso di gestione, senza la tecnologia o le innovazioni proposte, e una TOBE che include la tecnologia e le innovazioni proposte dallo studente.
-
 nelle prossime versioni si potrebbe migliorare l'integrazione dell'utilizzo dei metadati nell'indicizzazione delle notizie, nel sito la ricerca degli articoli potrebbe avvenire tramite i tag associati nei metadati. 
 
 si potrebbe implementare un controllo tramite AI sul tono, sul lessico e sulla grammatica del linguaggio usato nelle sintesi degli articoli. 
+
+
 ### Limiti emersi
 
->È importante sottolineare i limiti emersi. Come l'impossibilità di accesso ad alcune tecnologie o fasi del flusso di gestione documentale, limiti nella automazione di alcune passi di trasformazione dei formati o di integrazione delle sorgenti
+dato l'obbiettivo di fornire aggiornamenti in tempo rapido, una delle principali difficoltà è stabilire l'adeguato _rapporto tra rapidità e qualità delle informazioni_
 
  La  _ricerca automatizzata delle fonti open access_ è complessa: gli articoli scientifici cercati sono distribuiti su piattaforme diverse, senza API standardizzate per il recupero delle fonti. 
 
 ## Conclusioni
 
-> Discutere i risultati ottenuti, verificando se gli obiettivi definiti dai casi d'uso siano pienamente o parzialmente raggiunti. Evidenziare gli aspetti nei quali si sono raggiunti i risultati più soddisfacenti e le limitazioni emerse.
-
 Il progetto ha dimostrato la l’utilità di produrre un contenuto editoriale digitale, orientato a giornalisti e comunicatori, capace di sintetizzare risultati scientifici in modo rigoroso ma accessibile.
 
 obiettivi principali raggiunti:
 - produzione di contenuti affidabili, aggiornabili, verificabili
-- aggiornabilità e semplicità di utilizzo tramite markdown e hugo
+- aggiornabilità, portabilità e semplicità di utilizzo tramite markdown e hugo
 - automazione di parte del flusso documentale
 
 ## Bibliografia e sitografia
